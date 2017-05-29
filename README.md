@@ -8,3 +8,6 @@ This includes functionality to display a single Thingspeak Channel
 Full details are in settings.h
 
 Since working on this, fowlerk has updated based code to v11d, will look to integrate my changes to this
+
+Sample Display 
+
