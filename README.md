@@ -11,3 +11,4 @@ Since working on this, fowlerk has updated based code to v11d, will look to inte
 
 Sample Display 
 
+![alt text](weatherstation-thingspeak.jpg "Description goes here")
