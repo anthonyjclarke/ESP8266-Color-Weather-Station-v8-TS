@@ -9,6 +9,8 @@ Full details are in settings.h
 
 Since working on this, fowlerk has updated based code to v11d, will look to integrate my changes to this
 
-Sample Display 
+![alt text](WeatherStation-Thingspeak.jpg "Thingspeak data")
 
-![alt text](WeatherStation-Thingspeak.jpg "Description goes here")
+PCB design by @squix
+
+![alt text](WeatherStation-PCB.jpg "PCB by Squix")
